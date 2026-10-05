@@ -25,7 +25,7 @@ require 'includes/header.php';
         <div class="grid-3">
             <article class="card">
                 <h3>Teknologi Informasi</h3>
-                <p>Mempelajari pemanfaatan teknologi untuk mendukung kebutuhan organisasi.</p>
+                <p>Mempelajari pemanfaatan teknologi untuk belajar tambah semangat.</p>
             </article>
 
             <article class="card">

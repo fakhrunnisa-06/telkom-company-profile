@@ -14,4 +14,30 @@ require 'includes/header.php';
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div> 
     </div> 
 </section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Pembelajaran</span>
+            <h2>Fokus Pembelajaran</h2>
+        </div>
+
+        <div class="grid-3">
+            <article class="card">
+                <h3>Teknologi Informasi</h3>
+                <p>Mempelajari pemanfaatan teknologi untuk mendukung kebutuhan organisasi.</p>
+            </article>
+
+            <article class="card">
+                <h3>Pengembangan Perangkat Lunak</h3>
+                <p>Mempelajari proses membangun aplikasi web dan perangkat lunak.</p>
+            </article>
+
+            <article class="card">
+                <h3>Kolaborasi Digital</h3>
+                <p>Mempelajari kerja sama dan pengelolaan proyek menggunakan teknologi digital.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?> 
